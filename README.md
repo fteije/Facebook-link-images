@@ -1,2 +1,1 @@
-# designstuff
-Good stuff for graphic designers and community managers changing the world
+1. Download the files: fb.psd 
