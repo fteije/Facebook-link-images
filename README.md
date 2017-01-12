@@ -5,46 +5,108 @@ The presence of the brand logo is very important when creating posts on Facebook
 Download and read "Documentation" file. <br>
 There you will find everything you need to create links with great photos.
 
-<body style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100% !important; height: 100%; line-height: 1.6em; background-color: #ffffff; margin: 0;" bgcolor="#ffffff">
+<style>
+@import "http://fonts.googleapis.com/css?family=Open Sans:regular,semibold,italic,italicsemibold|Inconsolata&amp;v2";
+body {
+  font-family: "Open Sans";
+  margin: 6em 2em 2em 2em;
+}
+body:before {
+  content: '';
+  position: fixed;
+  top: 2%;
+  right: 3%;
+  height: 100px;
+  width: 100px;
+  background: url(http://www.html5rocks.com/static/images/identity/HTML5_Badge_128.png) no-repeat 50% 50%;
+  background-size: contain;
+  z-index: 10;
+  opacity: 0.1;
+}
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+h1 {
+  position: fixed;
+  background: -webkit-linear-gradient(top, white 65%, rgba(255,255,255,0));
+  background: -moz-linear-gradient(top, white 65%, rgba(255,255,255,0));
+  background: -ms-linear-gradient(top, white 65%, rgba(255,255,255,0));
+  background: -o-linear-gradient(top, white 65%, rgba(255,255,255,0));
+  width: 100%;
+  height: 80px;
+  padding: 10px 10px 10px 1em;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+h1 img {
+  height: 30px;
+  vertical-align: middle;
+  margin-bottom: 8px;
+}
+a { color: navy; }
+pre {
+  background: #eee;
+  margin-left: 2em;
+  padding: 5px;
+  border-left: 3px solid #ccc;
+}
+</style>
 
-<table class="body-wrap" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; background-color: #ffffff; margin: 0;" bgcolor="#ffffff"><tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0;" valign="top"></td>
-		<td class="container" width="600" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto; line-height: 25px" valign="top">
-			<div class="content" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; max-width: 600px; display: block; margin: 0 auto; padding: 20px;">
-				<table class="main" width="100%" cellpadding="0" cellspacing="0" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; border-radius: 3px; background-color: #fcfcfc; margin: 0; border: 1px solid #DBD9DB;" bgcolor="#fcfcfc"><tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="alert alert-warning" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; vertical-align: top; color: #fcfcfc; font-weight: 500; text-align: center; border-radius: 3px 3px 0 0; background-color: #F6F4F6; margin: 0; padding: 20px;" align="center" bgcolor="#F6F4F6" valign="top">
-							<img src="https://donarchange.org/wp-content/uploads/2016/11/logooooo.png" alt="" width="137" height="27">
-						</td>
-					</tr><tr style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; margin: 0;"><td class="content-wrap" style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; vertical-align: top; margin: 60; padding: 40px;" valign="top">
-							<table width="100%" cellpadding="0" cellspacing="0" style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 30px; margin: 0;"><tr style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 30px; margin: 0;"><td class="content-block" style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 30px; line-height:35px vertical-align: top; margin: 0; padding: 0 0 20px;" valign="top">
-                                <p style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 22px; line-height: 30px margin: 0; color: #363135">{customer_first_name}</p>
-									</td>
-								</tr><tr style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; margin: 0; "><td class="content-block" style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px;  vertical-align: top; margin: 0; padding: 0 0 20px; line-height: 26px; color: #737273" valign="top">
-                                
-				
-                                
-                                &iexcl;Lamentablemente tu pago fue rechazado! Te invitamos a probar nuevamente ingresando en <a href="mailto:donaciones@donarchange.org" style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 16px; color: #ED2D23; text-decoration: none; margin: 0;">donarchange.org</a> utilizando una tarjeta de cr&eacute;dito diferente.
-                                
-                               
-                                <br><br><strong style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 18px; line-height: 30px; margin: 50;">&iexcl;No te desanimes! </strong><br>
-                                
-                                        Con tu suscripci&oacute;n haces posible que el cambio est&eacute; a alcance de todos. Recuerda que ante cualquier consulta o problema administrativo puedes escribirnos a <a href="mailto:donaciones@donarchange.org" style="font-family: 'Helvetica',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; color: #ED2D23; text-decoration: none; margin: 0;">donaciones@donarchange.org</a>  
-                                        <br><br><br>
-                                  
-    
-                                <strong>Hasta pronto</strong><br>El equipo de Change.org
-                                    </td>
-								</tr>
-                             
-                                <tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-								</tr><tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;">
-								</tr></table></td>
-					</tr></table>
-                
-                
-                
-                <div class="footer" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;">
-					<table width="100%" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><tr style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; margin: 0;"><td class="aligncenter content-block" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: left; margin: 0; padding: 0 0 20px;" align="center" valign="top"><a href="{unsubscribe_url}" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 13px; color: #999; text-decoration: underline; margin: 0;">Click aqu&iacute;</a> para dejar de recibir estas alertas</td>
-						</tr></table></div></div>
-		</td>
-		<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; vertical-align: top; margin: 0;" valign="top"></td>
-	</tr></table></body>
-</html>
+<h1><img src="images/io2012_logo.png"> HTML5 Slide Template</h1>
+
+<h2>Configuring the slides</h2>
+<p>Much of the deck is customized by changing the settings in <a href="slide_config.js"><code>slide_config.js</code></a>.
+Some of the customizations include the title, Analytics tracking ID, speaker
+information (name, social urls, blog), web fonts to load, themes, and other
+general behavior.</p>
+<h3>Customizing the <code>#io12</code> hash</h3>
+<p>The bottom of the slides include <code>#io12</code> by default. If you'd like to change
+this, please update the variable <code>$social-tags: '#io12';</code> in
+<a href="theme/scss/default.scss"><code>/theme/scss/default.scss</code></a>.</p>
+<p>See the next section on "Editing CSS" before you go editing things.</p>
+<h2>Editing CSS</h2>
+<p><a href="http://compass-style.org/install/">Compass</a> is a CSS preprocessor used to compile
+SCSS/SASS into CSS. We chose SCSS for the new slide deck for maintainability,
+easier browser compatibility, and because...it's the future!</p>
+<p>That said, if not comfortable working with SCSS or don't want to learn something
+new, not a problem. The generated .css files can already be found in
+(see <a href="theme/css"><code>/theme/css</code></a>). You can just edit those and bypass SCSS altogether.
+However, our recommendation is to use Compass. It's super easy to install and use.</p>
+<h3>Installing Compass and making changes</h3>
+<p>First, install compass:</p>
+<pre><code>sudo gem update --system
+sudo gem install compass
+</code></pre>
+<p>Next, you'll want to watch for changes to the exiting .scss files in <a href="theme/scss"><code>/theme/scss</code></a>
+and any new one you add:</p>
+<pre><code>$ cd io-2012-slides
+$ compass watch
+</code></pre>
+<p>This command automatically recompiles the .scss file when you make a change.
+Its corresponding .css file is output to <a href="theme/css"><code>/theme/css</code></a>. Slick.</p>
+<p>By default, <a href="config.rb"><code>config.rb</code></a> in the main project folder outputs minified
+.css. It's a best practice after all! However, if you want unminified files,
+run watch with the style output flag:</p>
+<pre><code>compass watch -s expanded
+</code></pre>
+<p><em>Note:</em> You should not need to edit <a href="theme/scss/_base.scss"><code>_base.scss</code></a>.</p>
+<h2>Running the slides</h2>
+<p>The slides can be run locally from <code>file://</code> making development easy :)</p>
+<h3>Running from a web server</h3>
+<p>If at some point you should need a web server, use <a href="serve.sh"><code>serve.sh</code></a>. It will
+launch a simple one and point your default browser to <a href="http://localhost:8000/template.html"><code>http://localhost:8000/template.html</code></a>:</p>
+<pre><code>$ cd io-2012-slides
+$ ./serve.sh
+</code></pre>
+<p>You can also specify a custom port:</p>
+<pre><code>$ ./serve.sh 8080
+</code></pre>
+<h3>Presenter mode</h3>
+<p>The slides contain a presenter mode feature (beta) to view + control the slides
+from a popup window.</p>
+<p>To enable presenter mode, add <code>presentme=true</code> to the URL: <a href="http://localhost:8000/template.html?presentme=true">http://localhost:8000/template.html?presentme=true</a></p>
+<p>To disable presenter mode, hit <a href="http://localhost:8000/template.html?presentme=false">http://localhost:8000/template.html?presentme=false</a></p>
+<p>Presenter mode is sticky, so refreshing the page will persist your settings.</p>
+<hr />
+<p>That's all she wrote!</p>
